@@ -1,0 +1,11 @@
+画像ファイルをここに配置します。実際の実装では以下のような画像が必要です：
+
+- hero-bg.jpg - ヒーローセクションの背景
+- logo.png - 会社ロゴ
+- electrician.jpg - 電気工事士の写真
+- breaker-problem.jpg - ブレーカートラブルの写真
+- before-after.jpg - 工事前後の比較
+- customer-1.jpg - お客様の写真
+- safety-icon.svg - 安全性のアイコン
+- speed-icon.svg - スピード対応のアイコン
+- price-icon.svg - 料金のアイコン
